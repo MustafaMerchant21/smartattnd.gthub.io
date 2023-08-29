@@ -71,4 +71,4 @@ function showPosition(position) {
 getLocation();
 
 // Refresh location and map every second
-setInterval(getLocation, 1000);
+// setInterval(getLocation, 1000);
